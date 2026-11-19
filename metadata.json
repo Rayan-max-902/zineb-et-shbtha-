@@ -1,0 +1,6 @@
+{
+  "name": "BenchAudit",
+  "description": "Custom AI assistant design workbench, empirical verification log, written paper builder, and transparent class presenter draw.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
